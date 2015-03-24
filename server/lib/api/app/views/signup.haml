@@ -1,0 +1,11 @@
+%h1 Signup
+
+%form(action="/users" method="post")
+  %p
+    %input(type="text" name="user[email]" placeholder="Email")
+
+  %p
+    %input(type="password" name="user[password]" placeholder="Password")
+
+  %p
+    %button Sign me up!

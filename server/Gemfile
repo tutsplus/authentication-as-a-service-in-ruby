@@ -1,0 +1,12 @@
+source 'https://rubygems.org'
+
+gem "minitest", require: "minitest/autorun"
+gem "activerecord", require: "active_record"
+gem "database_cleaner"
+gem "pry-byebug"
+gem "sqlite3"
+gem "sinatra", git: "https://github.com/sinatra/sinatra"
+gem "haml"
+gem "rack-test", require: "rack/test"
+# Specify your gem's dependencies in api.gemspec
+gemspec
