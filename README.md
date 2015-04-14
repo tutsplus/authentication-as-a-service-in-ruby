@@ -12,5 +12,5 @@ These are source files for the Tuts+ course: [Authentication as a Service in Rub
 
 Available on [Tuts+](https://tutsplus.com)
 
-[published url]: https://code.tutsplus.com/courses
+[published url]: https://code.tutsplus.com/courses/service-oriented-architecture-for-authentication-in-ruby
 [instructor url]: https://tutsplus.com/authors/jose-mota
